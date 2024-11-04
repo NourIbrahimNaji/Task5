@@ -1,0 +1,22 @@
+
+
+.parent{
+    text-align: center;
+}
+
+.item{
+
+    float: left;
+    width: 33.3%;
+    text-align: center;
+}
+
+i{
+    font-size : 30px;
+    background-color: orange;
+    color: white;
+}
+
+.clearfix{
+    clear: both;
+}
